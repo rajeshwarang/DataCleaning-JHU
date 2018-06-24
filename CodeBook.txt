@@ -1,0 +1,23 @@
+
+1) x_train -> Training data set independent variables 
+
+2) y_train -> Dependent variable ( activity) from the training dataset 
+
+3) SubjectNumber_Train -> Subject ID 
+
+
+4) x_test -> Test data set independent variables 
+
+5) y_test -> Dependent variable ( activity) from the test dataset 
+
+6) SubjectNumber_Test -> Subject ID 
+
+7) CombinedSet  -> Combined data set of all the above 
+
+8) ColNames -> Names of the different measurements 
+
+
+9) FilteredDataSet -> Filtered data set having activity ID, activity name, subject details and also the variables with measurements of mean and standard deviation 
+
+
+10) output -> tidy set  
