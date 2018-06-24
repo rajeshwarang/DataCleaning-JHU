@@ -1,5 +1,10 @@
 # DataCleaning-JHU
 
+Refer run_analysis.R for the code 
+
+Refer CodeBook.txt for the desciption of the variables used in the code
+
+The logic used for the assignment is below:
 
 1) Loads the training set 
 
